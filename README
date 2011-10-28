@@ -1,0 +1,27 @@
+====================================================================
+This is a fork of the Univa Grid Engine project hosted on GITHUB
+https://github.com/gridengine/gridengine
+====================================================================
+
+We would like to introduce the following set of new features to the current 
+Grid Engine project.
+
+* Integration of GPUs, FPGAs, MICs, etc.
+* Accounting & scaling factors of GPUs, FPGAs, MICs, etc.
+* Monitoring web interface (PHPQstat)
+* Efficiency Control (Green Scheduler)
+* Dynamic Resource Quota
+* Simplify Topology-Aware Scheduling
+* Review confusing ticket number parameter 
+* Include on qstat a realtime fairshare priority view.
+* New queue_sort_method : fill_node (to extend the current sort methods load & seq_no).
+
+Please, send us feedback and suggest us new features to develop.
+
+Thanks!
+
+====================================================================
+You can find more information about HPCKP on http://www.hpckp.org
+Who we are : http://www.hpckp.org/index.php/about-us/about-portal
+Dev. Team  : http://www.hpckp.org/index.php/about-us/hpc-team
+====================================================================
